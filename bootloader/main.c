@@ -99,6 +99,8 @@
 #define PIN_NUMBER        0
 #define PORT_LETTER       0
 #elif defined(USE_PA9)
+
+//New Pin Test
 #define input_pin        GPIO_PIN(9)
 #define input_port       GPIOA
 #define PIN_NUMBER       9
