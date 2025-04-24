@@ -104,7 +104,7 @@
 #define input_pin        GPIO_PIN(9)
 #define input_port       GPIOB
 #define PIN_NUMBER       9
-#define PORT_LETTER      0
+#define PORT_LETTER      1
 #else
 #error "Bootloader comms pin not defined"
 #endif
